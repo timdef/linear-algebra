@@ -1,0 +1,12 @@
+How do you 'undo' or solve for a function?; Find it's inverse.  
+What does the inverse of a function do?; Performs the opposite action, cancels its inverse out.  
+How do you solve for x in the equation [$]f(x) = c[/$]?; [$]f^{-1}(f(x)) = x = f^{-1}(c)[/$]  
+What is the inverse of [$]x + 2[/$]; [$]x - 2[/$]  
+What is the inverse of [$]2x[/$]?; [$]\frac{1}{2}x[/$]  
+What is the inverse of [$]-1x[/$]?; [$]-1x[/$]  
+What is the inverse of [$]x^{2}[/$]; [$]\pm\sqrt{x}[/$]  
+What is the inverse of [$]3x + 5[/$]; [$]\frac{1}{3}(x-5)[/$]  
+What is the inverse of [$]a^{x}[/$]; [$]\text{log}_{a}(x)[/$]  
+What is the inverse of [$]\text{exp}(x) \equiv e^{x}[/$]; [$]\text{ln}(x) \equiv \text{log}_{e}(x)[/$]  
+What is the inverse of [$]\text{sin}(x)[/$]; [$]\text{sin}^{-1}(x) \equiv \text{arcsin}(x)[/$]  
+What is the inverse of [$]\text{cos}(x)[/$]; [$]\text{cos}^{-1}(x) \equiv \text{arccos}(x)[/$]

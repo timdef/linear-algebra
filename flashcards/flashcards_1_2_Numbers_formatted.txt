@@ -1,0 +1,23 @@
+What is [$]\mathbb{N}[/$]; Set of all Natural numbers, simplest numbers, only positive, as if counting.   
+What is [$]\mathbb{Z}[/$]; Set of all Integers, includes negatives. No fractional amounts.  
+What is [$]\mathbb{Q}[/$]; Set of all Rational numbers, set of fractions of integers  
+What is [$]\mathbb{R}[/$]; Set of all Real numbers, includes irrational numbers.  
+What are Irrational numbers?; Numbers that can't be created with integer fractions. ie [$]\sqrt{2}[/$]  
+What is [$]\mathbb{C}[/$]; Complex numbers, includes square root of negative numbers.    
+Why is addition *commutative*?; [$]a + b = b + a[/$] Order added doesn't matter.  
+Where does the term commutative come from?; Commute, to move around  
+Why is addition *associative*?; [$]a+b+c= (a+b)+c[/$] or [$]a+(b+c)[/$] It doesn't matter how things are grouped.  
+Where does the term associative come from?; associate, or group  
+What is subtraction?; The inverse operation of addition.  
+How can multiplication be defined?; repeated addition, area calculation. ab = a + a (b times) or b + b (a times)  
+Is multiplication commutative?; Yes, [$]ab = ba[/$]  
+Is multiplication associative?; Yes, [$]abc = (ab)c = a(bc)[/$]  
+What is division?; The inverse operation of multiplication. [$]a/b = \frac{a}{b} =[/$] one [$]b^{th}[/$] of [$]a[/$]. Whatever [$]a[/$] is, divide into [$]b[/$] equal parts and take one such part.  
+What is exponentiation?; The act of multiplying a number by itself.  
+What does [$]a^{n}[/$] mean?; [$]a[/$] times itself n times.  
+What does [$]\equiv[/$] mean?; Used when defining a new mathematical variable or expression.  
+What does a negative exponent mean?; Divide by. [$]a^{-n} \equiv \frac{1}{a^{n}} = \frac{1}{a(ntimes)}[/$]  
+What is a rule about exponents that makes negative exponents being defined as division make sense?; [$]a^{m}a^{-n} = aaa \cdot\cdot\cdot a[/$] m times [$]\frac{1}{aaa\cdot n times} = \frac{a\cdot m times}{a\cdot n times} = aa\cdot\cdot a[/$] m - n times [$] = a^{m-n}[/$]  
+What kind of operations are fractional exponents? [$]a^{\frac{1}{2}}[/$] [$]a^{\frac{1}{3}}[/$]; Square-root-like. [$]a^{\frac{1}{2}}\equiv\sqrt[2]{a}[/$]  [$]a^{\frac{1}{3}}\equiv\sqrt[3]{a}[/$]  
+What equation does a cube root satisfy for [$]a[/$]?; [$]\sqrt[3]{a}\sqrt[3]{a}\sqrt[3]{a}=a^{\frac{1}{3}}a^{\frac{1}{3}}a^{\frac{1}{3}}=a^{\frac{1+1+1}{3+3+3}}=a^{1}=a[/$]  
+What is the inverse operation of [$]\sqrt[3]{x}[/$]; [$]x^{3}[/$]
