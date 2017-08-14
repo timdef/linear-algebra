@@ -1,0 +1,10 @@
+When an expression consists of multiple parts added together, what are those parts called?; terms  
+If [$]x = abc[/$] what can refer to [$]abc[/$] as?; Factors of [$]x[/$]  
+What is the distributive property?; [$]a(b + c) = ab + ac[/$] Multiplying the expression by [$]a[/$] is the same as multiplying each factor by [$]a[/$]  
+What is factoring?; Opposite of expanding, rewriting an expression with the common parts taken out. [$]ab + ac = a(b+c)[/$]  
+What product of two factors are equal to a quadratic equation?; [$](x+?)[/$]  
+What pattern do we use when dealing with different powers of [$]x[/$]?; Group terms containing each unique power.  
+What does factoring involve?; Taking out common parts of an equation to make the expression more compact. 
+Factor this equation: [$]2x^{2}y+2x+4x[/$]; 2x(xy+3)  
+What is often useful when dealing with quadratic equations?; Rewriting as a product of two factors. Helps us see the properties of the function more clearly.  
+For [$](x-2)(x-4)[/$] what x values make the function positive?; 2 < x < 4  
