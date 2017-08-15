@@ -1,0 +1,3 @@
+Where does the name Quadratic come from?; The latin Quadratus meaning square.  
+What is the standard form of the quadratic equation??; [$]ax^{2}+ bx + c = 0[/$]  
+What is the quadratic formula?; [$]x = \frac{-b\pm\sqrt{b^{2}-4ac}}{2a}[/$]

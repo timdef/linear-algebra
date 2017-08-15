@@ -1,0 +1,5 @@
+What is the cartesian plane?; Graphical representation of pairs of numbers.  
+What are the roots of a quadratic function?; Points where the function touches the x-axis.  
+What is a good way to think of cartesian input-output pairs when graphing a function?; [$](x,y) =(x,f(x))[/$]  
+What type of variable is the x axis?; Independent, because it varies freely  
+What type of variable is the y axis?; Dependent, because it depends on what x is for f(x).

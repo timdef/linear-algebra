@@ -1,0 +1,12 @@
+What are functions used for?; Describe the relationship between variables, in particular how one variable depends on another.  
+What is a function?; A mathmatical object that takes numbers has inputs and produces numbers as outputs.  
+What's the notation for a function that from the input set A to B.; [$]f: A\to B[/$]  
+What is the *domain* of a function?; The set of allowed input values.    
+What is the *image* or *range* of a function?; The set of all possible output values for that function.  
+What does the *codomain* of a function do?; Describes the type of outputs a function has.  
+What do you call a function that maps different inputs to different outputs?; One-to-one or injective  
+What do you call a function if it covers the entire output set? (image = codomain); Onto or surjective.  
+When do you say a function is 'bijective'?; When it is both injective and surjective.  
+What is the act of applying multiple functions together known as?; function composition  
+What type of function is [$]f \circ g[/$]?; A composit function.  
+How does an inverse function map?; The output of a function back to its starting point.  
